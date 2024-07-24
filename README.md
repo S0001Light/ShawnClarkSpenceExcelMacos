@@ -13,3 +13,5 @@ to
 import tkinter
 
 --Shawn
+
+To make an animation file, sort of, with macro's number left column, all 1's, then two at end of far left column, with 1 next to 2, the rest number thru 1 - 1##########, before the 2. all ways.
